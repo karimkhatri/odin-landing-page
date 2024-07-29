@@ -115,6 +115,30 @@ body {
     text-align: right;
 }
 
+.newsletter {
+    background-color: #3882f6;
+    margin: 50px 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 12px;
+    color: #f9faf8;
+    padding: 20px;
+} 
+
+.newsletter p {
+    margin: 0;
+}
+
+.newsletter button {
+    padding: 6px 30px;
+    color:#f9faf8;
+    background-color: #3882f6;
+    border: 2px solid white;
+    border-radius: 6px;
+}
+
+
 .footer {
     background-color: #1f2937;
     color: #f9faf8;
